@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steroid-sloth
 - 👀 I’m interested in programming  
-- 🌱 I’m currently learning c and c++
-- 💞️ I’m looking to collaborate on project for c++
+- 🌱 I’m currently learning AI ML
+- 💞️ I’m looking to collaborate on project for AI ML
 - 📫 How to reach me :sandeepsingh01277@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
